@@ -30,6 +30,11 @@ const Navbar = () => {
     },
     {
       id: 6,
+      title: "Posts",
+      url: "/post",
+    },
+    {
+      id: 7,
       title: "Dashboard",
       url: "/dashboard",
     },
